@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="glow" x1="18" y1="18" x2="108" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8DFFB0"/>
+      <stop offset="1" stop-color="#59D8F0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="53" stroke="url(#glow)" stroke-opacity=".52" stroke-width="2"/>
+  <circle cx="64" cy="64" r="44" stroke="#70F3B0" stroke-opacity=".22" stroke-width="1" stroke-dasharray="2 6"/>
+  <path d="M64 11v10M64 107v10M11 64h10M107 64h10" stroke="url(#glow)" stroke-linecap="round" stroke-width="3"/>
+  <path d="M77 34v38c0 15-9 24-23 24-8 0-14-3-19-9" stroke="url(#glow)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="M77 34h-5" stroke="url(#glow)" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="64" cy="64" r="6" fill="#D9FFE4"/>
+  <circle cx="64" cy="64" r="12" stroke="#78FFB1" stroke-opacity=".62"/>
+  <circle cx="32" cy="36" r="2" fill="#78FFB1"/>
+  <circle cx="96" cy="36" r="2" fill="#59D8F0"/>
+  <circle cx="96" cy="92" r="2" fill="#78FFB1"/>
+</svg>
